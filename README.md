@@ -80,6 +80,9 @@ Connecter Power BI à la base `DVF_ETOILE` pour reproduire le tableau de bord. L
 - **Valeur foncière** : carte géographique des valeurs, répartition par type de bien.
 - **Valeur foncière par Surface Bâtie** : relation entre surface et valeur foncière.
 
+[**Lien pour télécharger notre Power BI :**](https://filesender.renater.fr/?s=download&token=7ec51c39-6cd5-4300-9c6d-1bf7d30929cd)
+
+
 ## Données
 
 Le tableau de bord couvre l'ensemble du territoire national (hors Alsace-Moselle et Mayotte, absents du fichier DVF) jusqu'au 30/06/2025, soit environ **7,34 millions de mutations** et **11,68 millions de biens**, pour une valeur foncière moyenne de **338 430 €**.
