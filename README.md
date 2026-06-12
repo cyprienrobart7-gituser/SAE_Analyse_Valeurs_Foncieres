@@ -80,7 +80,7 @@ Connecter Power BI à la base `DVF_ETOILE` pour reproduire le tableau de bord. L
 - **Valeur foncière** : carte géographique des valeurs, répartition par type de bien.
 - **Valeur foncière par Surface Bâtie** : relation entre surface et valeur foncière.
 
-[**Lien pour télécharger notre Power BI**](https://filesender.renater.fr/?s=download&token=7ec51c39-6cd5-4300-9c6d-1bf7d30929cd) (Expire : 12/07/2026)
+[**Lien pour télécharger notre Power BI**](https://filesender.renater.fr/?s=download&token=7ec51c39-6cd5-4300-9c6d-1bf7d30929cd) (Expire le 12/07/2026)
 
 
 ## Données
