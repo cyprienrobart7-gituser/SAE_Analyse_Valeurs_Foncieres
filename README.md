@@ -2,7 +2,7 @@
 
 Projet réalisé dans le cadre de la **SAE 6 — BUT 3 Science des Données** (Outil décisionnel, Modélisation statistique et Intelligence Artificielle), IUT de Lille — Site de Roubaix (Université de Lille).
 
-**Auteurs :** Maxime Deburggraeve, Cyprien Robart
+**Auteurs :** Maxime De Burggraeve, Cyprien Robart
 **Date :** 12 juin 2026
 
 ## Description du projet
