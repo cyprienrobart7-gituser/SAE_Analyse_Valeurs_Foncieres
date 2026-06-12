@@ -2,7 +2,8 @@
 
 Projet réalisé dans le cadre de la **SAE 6 — BUT 3 Science des Données** (Outil décisionnel, Modélisation statistique et Intelligence Artificielle), IUT de Lille — Site de Roubaix (Université de Lille).
 
-**Auteurs :** Maxime Deburggraeve, Cyprien Robart
+**Auteurs :** Maxime De Burggraeve, Cyprien Robart
+
 **Date :** 12 juin 2026
 
 ## Description du projet
@@ -85,7 +86,7 @@ Le tableau de bord couvre l'ensemble du territoire national (hors Alsace-Moselle
 
 ## Documentation
 
-Pour le détail de la méthodologie (analyse du MCD, règles de passage au MLD, choix techniques de l'ETL, analyse des résultats), se référer au rapport complet : `Rapport_Analyse_Valeurs_Foncieres.pdf`.
+Pour le détail de la méthodologie (analyse du MCD, règles de passage au MLD, choix techniques de l'ETL, analyse des résultats), se référer au rapport complet : [`Rapport_Analyse_Valeurs_Foncieres.pdf`](https://github.com/cyprienrobart7-gituser/SAE_Analyse_Valeurs_Foncieres/blob/master/Rapport%20Analyse%20Valeurs%20Foncieres.pdf).
 
 ## Sources
 
